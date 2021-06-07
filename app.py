@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/api', methods=['GET', 'PUT'])
 def api():
     if request.method == 'GET':
-        return json.dumps(data)
+        return 'json.dumps(data)'
 
     if request.method == 'PUT':
         data_to_update = request.form['data']
