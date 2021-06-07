@@ -11,7 +11,7 @@ data = [
     },
 
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'lorena Sierra',
         'odontologo': 'Raul Castro',
         'placas': 0,
@@ -20,7 +20,7 @@ data = [
     },
 
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -28,7 +28,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -36,7 +36,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -44,7 +44,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -52,7 +52,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -60,7 +60,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -68,7 +68,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -76,7 +76,7 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -84,14 +84,14 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
@@ -99,91 +99,91 @@ data = [
         'fin': '09/08/21'
     },
     {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-       ' id': str(random.getrandbits(8)),
+       ' id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
         'inicio': '08/08/21',
         'fin': '09/08/21'
     }, {
-        'id': str(random.getrandbits(8)),
+        'id': random.getrandbits(8),
         'paciente': 'juana Molina',
         'odontologo': 'Jorge Cardozo',
         'placas': 1,
