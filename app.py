@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 
 @app.route('/api', methods=['GET', 'PUT'])
-def apiGet():
+def api():
     if request.method == 'GET':
         return json.dumps(data)
 
