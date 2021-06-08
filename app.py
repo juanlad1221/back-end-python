@@ -5,7 +5,7 @@ from flask import jsonify
 
 app = Flask(__name__)
 
-@app.route('/api', methods=['GET', 'PUT'])
+@app.route('/', methods=['GET', 'PUT'])
 def api():
     if request.method == 'GET':
         return jsonify(data)
