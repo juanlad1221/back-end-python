@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/api', methods=['GET', 'PUT'])
 def api():
     if request.method == 'GET':
-        return 'jsonify(data)'
+        return jsonify(data)
 
     if request.method == 'PUT':
         data_to_update = request.form['data']
@@ -22,4 +22,4 @@ def api():
 
 
 if __name__ =='__main__':
-    app.run(port=5001)
+    app.run(port=5000)
