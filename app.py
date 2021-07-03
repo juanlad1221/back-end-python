@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/', methods=['GET'])
 def api():
     if request.method == 'GET':
-        return jsonify({'msg':'1'})
+        return jsonify([{'name':'Matematicas'},{'name':'Ingles'}])
 
     
 
